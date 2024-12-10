@@ -33,6 +33,7 @@ This project aims to analyze survey data collected from 600+ responses. The surv
 - **Happiness**: A significant portion of respondents reported lack in satisfaction with their salary.
 - **Favorite Programming Language**: Python is the most preferred programming language among respondents.
 - **Salary Range Distribution**: Salaries are higher in North America and Western Europe, with lower salaries reported in South Asia and Eastern Europe.
+  ![dashboard](PowerBI_Dashboard.png)
 
 
 ## Conclusion
